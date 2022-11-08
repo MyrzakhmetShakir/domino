@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.81102mm"
+   height="100.81102mm"
+   viewBox="0 0 100.81102 100.81102"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="six.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.0658772"
+     inkscape:cx="170.75138"
+     inkscape:cy="246.74513"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.811142,-43.921059)">
+    <rect
+       style="fill:#ffc000;fill-rule:evenodd;stroke-width:0.526"
+       id="rect846"
+       width="100.81102"
+       height="100.81102"
+       x="42.811142"
+       y="43.921059"
+       ry="4.7468634" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.311242"
+       id="path1049"
+       cx="117.15504"
+       cy="126.24632"
+       r="13.323836" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.311242"
+       id="circle1513"
+       cx="69.455635"
+       cy="65.30349"
+       r="13.323836" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.311242"
+       id="circle1538"
+       cx="70.342079"
+       cy="125.99375"
+       r="13.323836" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.311242"
+       id="circle1564"
+       cx="115.83113"
+       cy="65.827583"
+       r="13.323836" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.311242"
+       id="circle1595"
+       cx="69.855965"
+       cy="95.653709"
+       r="13.323836" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.311242"
+       id="circle1623"
+       cx="115.97705"
+       cy="96.203636"
+       r="13.323836" />
+  </g>
+</svg>
